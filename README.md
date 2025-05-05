@@ -1,4 +1,4 @@
-<div align="center">
+]<div align="center">
 
 <p align="center">
 <img width="1000px" alt="Awesome DeepSeek Integrations" src="docs/Awesome DeepSeek Integrations.png">
@@ -8,7 +8,7 @@
 
 Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
 
-English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md)/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
+English/[简体中文1](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md)/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 </div>
 
 </br>
